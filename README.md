@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/zulfikarpinem/zulfikarpinem/main/readmebox.svg" width="100%" />
 
 ### About Me
-- 🌱 I'm currently learning NestJS, Go and Flutter.
+- 🌱 I'm currently learning Golang and Flutter.
 - 👀 I’m interested in Web Development and Mobile App Development.
 - 📫 How to reach me : zulfikarm022@gmail.com 
 
@@ -106,12 +106,12 @@
 </div>
 
 ### Github Stats
-![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zulfikarpinem&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zeddlabs&include_all_commits=true)
 
-![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zulfikarpinem&layout=compact&langs_count=7)
+![My Top Langs](https://github-readme-stats-zeddlabs.vercel.app/api/top-langs/?username=zeddlabs&layout=compact&langs_count=7)
 
 ### Github Strikes
-![My GitHub Strikes](https://github-readme-streak-stats.herokuapp.com/?user=zulfikarpinem)
+![My GitHub Strikes](https://github-readme-streak-stats.herokuapp.com/?user=zeddlabs)
 
 ### Wakatime Stats
 ![My Wakatime Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api/wakatime?username=zulfikarpinem)
