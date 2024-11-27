@@ -108,7 +108,7 @@
 ### Github Stats
 ![My GitHub Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api?username=zeddlabs&include_all_commits=true)
 
-![My Top Langs](https://github-readme-stats-zeddlabs.vercel.app/api/top-langs/?username=zeddlabs&layout=compact&langs_count=7)
+![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zeddlabs&layout=compact&langs_count=7)
 
 ### Github Strikes
 ![My GitHub Strikes](https://github-readme-streak-stats.herokuapp.com/?user=zeddlabs)
