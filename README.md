@@ -110,11 +110,5 @@
 
 ![My Top Langs](https://github-readme-stats-zulfikarpinem.vercel.app/api/top-langs/?username=zeddlabs&layout=compact&langs_count=7)
 
-### Github Strikes
-![My GitHub Strikes](https://github-readme-streak-stats.herokuapp.com/?user=zeddlabs)
-
-### Wakatime Stats
-![My Wakatime Stats](https://github-readme-stats-zulfikarpinem.vercel.app/api/wakatime?username=zulfikarpinem)
-
 ### Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
